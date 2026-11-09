@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: verity-identity-website
+    runtime: static
+    buildCommand: ''
+    staticPublishPath: .
